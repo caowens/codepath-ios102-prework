@@ -6,7 +6,7 @@ Introduce Student is a functional app that shows us the basics of navigating Xco
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5zejlnajJwY29lMjhpYnl4NTFmcjk5Y2Voa3NlM29ubmFlMmluMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PH1ejeny3b6syp6BwC/giphy.gif" width=200><br> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG12bWs4aGF6cWpxbmJsMGJkdjkyNjBnNzVnenNvN2Q3bW1waXN5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLan8ll9zuSyVoOquq/giphy.gif" width=200><br> 
 
 ### Required Features
 
@@ -19,6 +19,4 @@ Introduce Student is a functional app that shows us the basics of navigating Xco
 
 ### Optional Features
 
-- [ ] 1. User can tap a button to change the color of the background view
-- [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [ ] 4. Any stylistic changes that are not default options (Comment this here)
+- [X] 1. User can tap a button to change the color of the background view
