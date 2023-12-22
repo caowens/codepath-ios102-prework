@@ -110,6 +110,15 @@
                                     <action selector="stepperDidChange:" destination="BYZ-38-t0r" eventType="valueChanged" id="nLe-fu-0uS"/>
                                 </connections>
                             </stepper>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8SZ-vn-3oZ">
+                                <rect key="frame" x="132" y="759" width="129" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="tinted" title="Change Color"/>
+                                <connections>
+                                    <action selector="changeColorDidTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Krg-Hg-u3x"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
